@@ -141,7 +141,7 @@ A curated list of some worth checking applications in the F-droid repo (and othe
 
 1. [Slide](https://github.com/ccrama/Slide) <img src="https://f-droid.org/repo/icons-640/me.ccrama.redditslide.334.png" alt="Slide logo" width="30" height="30">
 
-   * _Companion app for reddit._ https://github.com/TeamNewPipe/NewPipe
+   * _Companion app for reddit._
 
 2. [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) <img src="https://f-droid.org/repo/icons-640/com.pitchedapps.frost.2040700.png" alt="Frost for Facebook logo" width="30" height="30">
 
