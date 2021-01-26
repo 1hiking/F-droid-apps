@@ -15,6 +15,8 @@ A curated list of some worth checking applications in the F-droid repo (and othe
 9. [E-mail clients](#E-mail-clients)
 10. [Password Manager](#Password-Manager)
 11. [Social Media clients](#Social-Media-clients-(Reddit,-Facebook,-etc))
+12. [Keyboards](#Keyboards)
+13. [Launchers](#Launchers)
 
 
 ## Browsers
@@ -164,3 +166,21 @@ A curated list of some worth checking applications in the F-droid repo (and othe
     * _Lightweight YouTube frontend._
 
     * **Note**: Also has his own repository.
+
+## Keyboards
+
+1. [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) 
+
+    * _We live in a world full of languages. Why not use a multi-lingual keyboard?_
+
+    * **Note**: This application in F-droid keeps getting their logo changed every day, this is their F-droid package [link](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/).
+
+2. [OpenBoard](https://github.com/dslul/openboard) <img src="https://f-droid.org/repo/org.dslul.openboard.inputmethod.latin/en-US/icon_VyJROP8brUZSTwmL-jUBtqBGL3zx4bXmvY-FaYXVzLg=.png" alt="OpenBoard logo" width="30" height="30">
+
+    * _An opensource keyboard that does not spy on you!_
+
+## Launchers
+
+1. [KISS launcher](https://github.com/Neamar/KISS) <img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/icon_Ze7tWLUQpZSDkV7t5FEdDArBFwuOdWmXK5A33ZwESS4=.png" alt="KISS launcher logo" width="30" height="30">
+
+    * _Blazingly fast launcher focused on search._
