@@ -1,5 +1,5 @@
 
-# Curated list of F-droid apps
+# Hiking's curated list of F-droid apps
 
 A curated list of some worth checking applications in the F-droid repo (and others too), short descriptions and notes are listed below.
 
@@ -179,8 +179,31 @@ A curated list of some worth checking applications in the F-droid repo (and othe
 
     * _An opensource keyboard that does not spy on you!_
 
-## Launchers
+## Launchers & Icon Packs
 
 1. [KISS launcher](https://github.com/Neamar/KISS) <img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/icon_Ze7tWLUQpZSDkV7t5FEdDArBFwuOdWmXK5A33ZwESS4=.png" alt="KISS launcher logo" width="30" height="30">
 
     * _Blazingly fast launcher focused on search._
+
+2. [Frost](https://github.com/dkanada/frost) <img src="https://f-droid.org/repo/icons-640/com.dkanada.icecons.43.png" alt="KISS launcher logo" width="30" height="30">
+
+    * _Monotone icon pack._
+
+## No category (for now)
+
+OsMand~ 
+ProtonVPN 
+Aegis
+OpenCamera 
+P!n 
+ClassyShark3xodus 
+Binary Eye 
+Shattered Pixel Dungeon 
+xBrowserSync
+Yet Another Call Blocker 
+WiFi Analyzer 
+MuPDF viewer 
+Recorder 
+monerujo 
+MoneyWaller 
+SyncThing 
