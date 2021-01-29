@@ -17,6 +17,8 @@ A curated list of some worth checking applications in the F-droid repo (and othe
 11. [Social Media clients](#Social-Media-clients-(Reddit,-Facebook,-etc))
 12. [Keyboards](#Keyboards)
 13. [Launchers](#Launchers)
+14. [2FA](#2FA)
+15. [Games](#Games)
 
 
 ## Browsers
@@ -189,16 +191,31 @@ A curated list of some worth checking applications in the F-droid repo (and othe
 
     * _Monotone icon pack._
 
+## 2FA
+
+1. [Aegis](https://github.com/beemdevelopment/Aegis) <img src="https://f-droid.org/repo/com.beemdevelopment.aegis/en-US/icon_C951ZFTL5UuK5VK6KaIOnVy5NNb0Wqe8asl4v1fSXLI=.png" alt="Aegis logo" width="30" height="30">
+
+    * _Free, secure and open source 2FA app to manage tokens for your online services._
+
+## Games
+
+1. [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) <img src="https://f-droid.org/repo/icons-640/com.shatteredpixel.shatteredpixeldungeon.512.png" alt="Shattered Pixel Dungeon logo" width="30" height="30">
+
+     * _A roguelike game based on Pixel Dungeon._
+
+2. [Mindustry](https://github.com/00-Evan/shattered-pixel-dungeon) <img src="https://f-droid.org/repo/io.anuke.mindustry/en-US/icon_Eno3XvqCZUcHRm3eMjiUleAxgzLopPe6-hkI7BHx1lU=.png" alt="Mindustry logo" width="30" height="30">
+
+    * _A factory-based sandbox tower defense game._
+
+
 ## No category (for now)
 
 OsMand~ 
 ProtonVPN 
-Aegis
 OpenCamera 
 P!n 
 ClassyShark3xodus 
 Binary Eye 
-Shattered Pixel Dungeon 
 xBrowserSync
 Yet Another Call Blocker 
 WiFi Analyzer 
