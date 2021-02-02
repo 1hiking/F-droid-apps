@@ -1,4 +1,5 @@
 
+Achieved since I migrated it to my Webpage at 1hiking.github.io
 # Hiking's curated list of F-droid apps
 
 A curated list of some worth checking applications in the F-droid repo (and others too), short descriptions and notes are listed below.
